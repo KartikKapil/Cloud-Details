@@ -1,0 +1,17 @@
+Google Cloud Platform
+
+
+What is it best at :
+==> Easy to understand pricing model
+==> User friendly console
+==> Google App engine and machine learning capabilites better than AWS
+==> Best option for microservice architecture.
+==> Better for Infrastructure as a service.
+
+Cloud Client Libraries
+
+Comprehensive List of all libraries:
+
+Link
+
+(https://cloud.google.com/nodejs/docs/reference)

@@ -1,0 +1,51 @@
+Comparison between the top 3 gaints (AWS vs GCP vs Azure)
+
+Virtual Machines
+
+Aws => Virtual machines running in Amazon Web Services are called Elastic Compute Cloud (EC2) instances. You can select EC2 instances with preconfigured settings or configure virtual hardware settings manually.
+
+Azure => One of the main advantages of Azure virtual machines is that they use real processor cores.Not like AWS and GCP which use hyperThreading.VMs in Azure show better performance.
+
+Google Cloud => It does not offer wide range of VMs compared to Aws and Azure 
+
+Conclusion => Azure is the best for running various virtual machines 
+
+Container Support 
+
+Aws => Provides Amazon Elastic Containere Registry,Amazon Elastic kubernetes service.Its resource pool is slighty smaller than that of GCP.
+
+Azure => Only has two container Services, The docker hub and azure container registry is used.
+
+Google Cloud => As google played an important role in developing Kubernetes it has the best support for the same. Also the container deployed are highly scalable.
+
+Conclusion => GCP is the best for running and scaling containerized application.
+
+Storage 
+
+Aws => With options like S3 and EBS ,Aws can store and serve static data faster than the other two vendors.Storage can be expanded almost instantaneously.
+
+Azure => Azure Files is a universal storage service to share files with virtual machines running in Azure and local machines running on-site.Good for storing NOSQL databases.
+
+Google Cloud => Usage of persistent disk makes it easier to connect with kubernets.Exporting data is easy.
+
+Conclusion => AWS is best for storing and serving static files when compared to the two follwed by GCP.
+
+Network Services 
+
+Aws => AWS core networking services use an internal architecture called a virtual private cloud (VPC), which is a completely isolated logical network.
+
+Azure =>  The internal architecture of Azure networks is closer to the traditional network architecture of data centers and private networks. Azure Virtual Networking (VNet) is Microsoft’s core cloud network product.
+
+Google Cloud =>  Google uses the Andromeda architecture for networking. This is Google’s network virtualization stack.
+
+Conclusion => Load balancing is best done by AWS and Google Cloud with Google clouds CDN being more user friendly.
+
+Database 
+
+AWS => AWS provides the broadest range of database options. Solutions work with high performance, innovations are implemented on time, and traditional database technologies are available.
+
+Azure => Azure provides great support for migration, including migration assessment, automation, and optimization. There are flexible deployment options, licensing options, and hybrid deployment is available.
+
+Google Cloud => Database services in Google Cloud are the most user-friendly and provide the best performance for workloads. Google offers excellent capabilities to use databases with containers in Google Cloud.
+
+Conclusion => GCP is prefered for microservice architecture as it integrates most easily.

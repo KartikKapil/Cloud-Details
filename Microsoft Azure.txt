@@ -1,0 +1,14 @@
+Microsoft Azure
+
+What is it best at:
+
+==> Azure virtual machines is that they use real processor cores.
+==> Azure Files is a universal storage service to share files with virtual machines running in Azure and local machines running on-site.Good for storing NOSQL databases.
+
+==>The internal architecture of Azure networks is closer to the traditional network architecture of data centers and private networks, making it easier to work on.
+
+Comprehensive List of all libraries:
+
+Link
+
+(https://azure.github.io/azure-sdk/releases/latest/index.html#javascript)

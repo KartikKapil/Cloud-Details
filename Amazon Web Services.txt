@@ -1,0 +1,36 @@
+Amazon Web Services
+
+What is it best at :
+
+==> Easiest to configure storage.
+==> Connection to business and clients using AWS social engine.
+==> Fastest load balancer currently as offered by any cloud platform.
+
+
+Top libraries at AWS
+1) AWS-SDK
+Offical javascript development library provided by AWS.
+
+Link (https://www.npmjs.com/package/aws-sdk)
+
+2)Serverless
+The Serverless framework is a free open-source web framework that was initially developed for building applications on AWS Lambda.
+Link (https://www.npmjs.com/package/serverless)
+
+3)AWS Amplify
+AWS Amplify, allows you to build scalable and secure mobile and web applications easily.
+
+Link (https://www.npmjs.com/package/aws-amplify)
+
+4)Serverless-Offline
+If you are using the Serverless framework, the serverless-offline library can be a lifesaver because it allows you to deploy your services and functions in your local machine before deploying to the cloud.
+
+Link (https://www.npmjs.com/package/serverless-offline)
+
+5)Amazon-Cognito-Identity-Js
+The amazon-cognito-identity-js library allows JS-based applications to sign up users, authenticate users, as well as view, delete, and update user attributes within the Amazon Cognito Identity service.
+
+Link (https://www.npmjs.com/package/amazon-cognito-identity-js)
+
+
+

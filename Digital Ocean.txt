@@ -1,0 +1,28 @@
+Digital Ocean
+
+What it is best at :
+
+==>It is used for cost-effective application and website hosting.
+==> It is known for the level of reliability and scalability it offers for users, enhancing application deployment outcomes.
+==> It offers Linux virtual machines known as Droplets running atop virtual systems.
+==>Users have the option of creating their desired number of Droplets to be used within the cloud. They can also rely on Droplets independently.
+
+Cloud client library:
+
+1)Node Wrapper
+
+Open Source library, Use Personal Access token from Digital ocean after the account to activate.
+
+Methods available :
+account,action,cdn,certificates,databases,domains,droplets,firewalls,floatingIPs,images,keys,kubernetes,loadBalancers,projects,regions,reports,sizes,snapshots,tags,volumes.
+
+Link
+(https://github.com/matt-major/do-wrapper)
+
+
+2)Droplet API
+
+For creating and manging new droplets/VMs Could also get data about the VMs Created and could also manage other details of the Vms as well.
+
+Link
+(https://www.npmjs.com/package/dropletapi)
